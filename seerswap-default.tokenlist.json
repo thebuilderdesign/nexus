@@ -1,0 +1,33 @@
+{
+  "name": "Nexswap Default",
+  "timestamp": "2025-07-01T13:43:25.934Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://bafkreienv27ebr3uwieozt4o37tm64x3ynuv775wj47qzec6uwt4hyxm3e.ipfs.nftstorage.link/",
+  "keywords": [
+    "Nexswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 3940,
+      "address": "0x3c5C6A162cBB5E1d279b1631FD9C54fF25c5b517",
+      "name": "Nexum",
+      "symbol": "NEXUM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo-token.PNG"
+    },
+    {
+      "chainId": 3940,
+      "address": "0x6078F52F47b04D18ECc2cA92023BabEb85A21635",
+      "name": "Wrapped Nexus",
+      "symbol": "WNEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/harmony-logo.png"
+    }
+  ]
+}
