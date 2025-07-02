@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo-token.PNG",
+  "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo.PNG",
   "keywords": [
     "Nexswap",
     "default"
@@ -19,7 +19,7 @@
       "name": "Nexum",
       "symbol": "NEXUM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo-token.PNG"
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/logo.PNG"
     },
     {
       "chainId": 3940,
@@ -27,7 +27,7 @@
       "name": "Wrapped Nexus",
       "symbol": "WNEX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/harmony-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/thebuilderdesign/nexus/refs/heads/main/nexus-logo.png"
     }
   ]
 }
